@@ -1,6 +1,6 @@
 # 🇪🇸🇫🇷🇮🇹 Explorador de Países y Banderas del Mundo (APK para Android)
 
-Una aplicación móvil para Android diseñada para explorar países, banderas nacionales y elementos geográficos. Cuenta con una interfaz limpia, elementos interactivos y recursos multimedia optimizados.
+Una aplicación móvil para Android diseñada para hacer la traducción de países con su idioma, banderas nacionales y elementos geográficos. Cuenta con una interfaz limpia, elementos interactivos y recursos multimedia optimizados.
 
 ---
 
